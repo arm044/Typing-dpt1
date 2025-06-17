@@ -11,24 +11,15 @@
 ## 🚀 วิธีใช้งาน (สำหรับนักพัฒนา)
 
 ```bash
-git clone https://github.com/arm044/typing-practice-app.git
-cd typing-practice-app
+git clone https://github.com/arm044/Typing-dpt1.git
+cd Typing-dpt1
 npm install
 npm run dev
 ```
 
-## 🌐 ตัวอย่างหน้าจอ
-
-![preview](./preview.png)
-
 ## 📦 เทคโนโลยีที่ใช้
 - React 18
 - Vite
-- Tailwind CSS (รองรับโครงร่าง)
 
 ## 🛠️ License
 MIT License
-
----
-
-สร้างโดย [@arm044](https://github.com/arm044) 😊
